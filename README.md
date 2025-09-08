@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: +91 9224396742
 - 😄 Pronouns: they / them
 - ⚡ Fun fact: I'm also the Training Placement co-ordinator of my college
+- 🧠 Mentality : Open-sourced
 
