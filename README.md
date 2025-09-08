@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-** I Prof. Dr. Viju Maruti Shelake, Assistant Professor @FRCRCE Bandra** 
+ I Prof. Dr. Viju Maruti Shelake, Assistant Professor @FRCRCE Bandra
 
 Here are some ideas to get you started:
 
