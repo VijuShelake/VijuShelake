@@ -19,7 +19,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/285f5e7f-19a7-4e71-b7bb-8c1564475c63" alt="Profile Image" width="250" />
+      <img src="https://github.com/user-attachments/assets/285f5e7f-19a7-4e71-b7bb-8c1564475c63" alt="Profile Image" width="300" />
     </td>
   </tr>
 </table>
