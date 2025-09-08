@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm also the Training Placement co-ordinator of my college
 - 🧠 Mentality : Open-sourced
 
+<img width="284" height="278" alt="image" src="https://github.com/user-attachments/assets/285f5e7f-19a7-4e71-b7bb-8c1564475c63" />
+
+
