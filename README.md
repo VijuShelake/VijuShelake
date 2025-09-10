@@ -16,7 +16,7 @@
         <li>⚡ Fun fact: I'm also the Training Placement co-ordinator of my college</li>
         <li>🧠 Mentality : Open-sourced</li>
         <li>📫 How to reach me: +91 9224396742</li>
-        <li>🎁 Gift / Wishes at: vijaynew12@okaxis </li>
+        <li>🎁 Gift & Wishes at: vijaynew12@okaxis </li>
       </ul>
     </td>
     <td>
